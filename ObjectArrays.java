@@ -24,8 +24,8 @@ public class ObjectArrays extends GraphicsProgram {
 
     public void run() {
 
-        // call createTargets
-        GRect[] targets = createTargets(5);
+        // TODO: call createTargets
+        
 
         // create cow image object
         createCow();
@@ -33,8 +33,8 @@ public class ObjectArrays extends GraphicsProgram {
         // add key Listener
         addKeyListeners();
 
-        // call animateTargets after you finished defining the method
-        animateTargets(targets, 5);
+        // TODO: call animateTargets after you finished defining the method
+        
 
     }
 
