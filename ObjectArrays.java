@@ -88,7 +88,7 @@ public class ObjectArrays extends GraphicsProgram {
      *
      * @param targets
      */
-    public void animateTargets(GRect[] targets, int size) {
+    public void animateTargets(GRect[] targets) {
         // TODO: add code here
     }
 
