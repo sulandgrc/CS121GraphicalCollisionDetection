@@ -24,8 +24,8 @@ public class ObjectArrays extends GraphicsProgram {
 
     public void run() {
 
-        // TODO: call createTargets
-        
+        // call createTargets
+        GRect[] targets = createTargets(10);
 
         // create cow image object
         createCow();
