@@ -84,7 +84,7 @@ public class ObjectArrays extends GraphicsProgram {
     /**
      * This method animates the array of targets and checks if a cow has collided with
      * one of the targets.  If so, the target is made invisible. The animation continues until the cow
-     * has collided with size targets
+     * has collided with all the targets
      *
      * @param targets
      */
